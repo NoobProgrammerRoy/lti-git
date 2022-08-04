@@ -1,4 +1,6 @@
 <h1>Hello World</h1>
+<<<<<<< HEAD
 <p>This is a master branch</p>
+=======
 <p>This is a dev branch</p>
-
+>>>>>>> dev
